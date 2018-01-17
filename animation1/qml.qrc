@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>rotation.jpg</file>
+        <file>smile.png</file>
+    </qresource>
+</RCC>
